@@ -1,8 +1,8 @@
-# starter-devsecops-ai-template
+# starter-devsecops-template
 
 > ➡️ First brick of my HOMELAB System (starter-home-zero)
 
-Minimal DevSecOps and AI starter template for fullstack projects.
+Minimal starter template for fullstack projects.
 
 This repository is a public showcase of the project.
 
