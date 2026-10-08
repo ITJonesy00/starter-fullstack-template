@@ -1,4 +1,4 @@
-# starter-devsecops-template
+# starter-fullstack-template
 
 > ➡️ First brick of my HOMELAB System (starter-home-zero)
 
