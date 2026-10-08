@@ -9,7 +9,7 @@ This repository is a public showcase of the project.
 The current objective : deliver a minimal reproducible workflow from idea to release.
  
 The source code, development workflow and releases are maintained on **Codeberg** : 
-☕️ [Codeberg : starter-devsecops-ia-template](https://codeberg.org/ITJonesy00/starter-devsecops-ia-template)
+☕️ [Codeberg : starter-devsecops-ia-template](https://codeberg.org/ITJonesy00/starter-fullstack-template)
 
 <details>
 <summary> 📽 Overview 
